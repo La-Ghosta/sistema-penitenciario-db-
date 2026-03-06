@@ -1,4 +1,4 @@
-\# Sistema Penitenciário — Banco de Dados PostgreSQL
+# Sistema Penitenciário — Banco de Dados PostgreSQL
 
 
 
